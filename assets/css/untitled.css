@@ -2,3 +2,17 @@ img, svg {
   clip-path: circle();
 }
 
+.in_middle {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.in_middle {
+}
+
+.centric {
+  width: 100%;
+  margin-top: 10%;
+}
+
