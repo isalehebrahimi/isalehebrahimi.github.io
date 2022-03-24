@@ -17,13 +17,13 @@ img, svg {
 
 .experience__title {
   position: relative;
-  font-size: 20px;
+  font-size: 25px;
   font-weight: 600;
   z-index: 2;
 }
 
 .education__degree, .experience__date {
-  font-size: 14px;
+  font-size: 17px;
   font-weight: 300;
   /* color: #333; */
   z-index: 2;
@@ -31,18 +31,18 @@ img, svg {
 }
 
 .experience__company {
-  font-size: 14px;
+  font-size: 17px;
   font-weight: 700;
   color: #42dca3;
 }
 .experience__review {
-  font-size: 12px;
+  font-size: 14px;
   font-weight: 700;
   color: #42dca3;
 }
 
 .supervisor {
-  font-size: 12px;
+  font-size: 14px;
   font-weight: 700;
   
 }
