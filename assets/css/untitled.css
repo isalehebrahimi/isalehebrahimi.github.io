@@ -36,9 +36,9 @@ img, svg {
   color: #42dca3;
 }
 .experience__review {
-  font-size: 18px;
+  font-size: 16px;
   font-weight: 700;
-  color: #42dca3;
+  /* color: #DAFCEB; */
 }
 
 .supervisor {
